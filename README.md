@@ -1,5 +1,8 @@
 # Multi-Tier Architecture on AWS using Terraform
 
+Modifificar bucket en backend.tf
+Modificar parametros en terraform.tfvars
+
 Deploy a scalable and resilient multi-tier architecture on AWS using Terraform.
 
 ## 🚀 Project Overview
